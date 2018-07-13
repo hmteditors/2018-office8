@@ -28,8 +28,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.339</p>
                         </div>
                         <div n="comment">
-                            <p>ὡς προνοῶν μὴ καὶ παρὰ τῶν πολεμίων εἴη τίς δόλος· ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> καταφρονῶν τῶν κινδύνων,
-                            οὐ προνοεῖ· πῶς δὲ τὸν ἐρωδίον μὴ ὁρῶντες αὐτὸν ὁρῶσιν· ἴσως ὅτι πρὸς ὄρθρον ἡ σελήνη ἀνέσχεν ⁑ </p>
+                            <p>ὡς προνοῶν μὴ καὶ παρὰ τῶν πολεμίων εἴη τίς δόλος- ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> καταφρονῶν τῶν κινδύνων,
+                            οὐ προνοεῖ- πῶς δὲ τὸν ἐρωδίον μὴ ὁρῶντες αὐτὸν ὁρῶσιν- ἴσως ὅτι πρὸς ὄρθρον ἡ σελήνη ἀνέσχεν ⁑ </p>
                         </div>
                     </div>
                     <div n="2" type="scholion">
@@ -64,8 +64,65 @@
                         </div>
                         <div n="comment">
                             <p>παρέδραμε <choice><abbr>φη</abbr><expan>φησιν</expan></choice> ἀσύνετως.
-                            οὐ θεασάμενος αὐτούς· δεῖ δὲ τοὺς κατασκόπους τὴν ὄψιν περιάγειν.
+                            οὐ θεασάμενος αὐτούς- δεῖ δὲ τοὺς κατασκόπους τὴν ὄψιν περιάγειν.
                             πρὸς ἐπίγνωσιν ἀκριβῆ ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="5" type="scholion">
+                        <div n="lemma">
+                            <p><num value="5">ε</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.351</p>
+                        </div>
+                        <div n="comment">
+                            <p>ὅσον ἀροτριῶσα ἡ ἡμίονος ὑπογράφειν δύναται ὅ ἔστι πλέθρον ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="6" type="scholion">
+                        <div n="lemma">
+                            <p><num value="6">ϛ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.353</p>
+                        </div>
+                        <div n="comment">
+                            <p>ἐν γὰρ τῇ πρώτῃ αὔλακι σχολαιτέρων προσδεῖ ζώων, πρὸς τὸ βαθυτέραν γενέσθαι τὴν αὔλακα- ἐν δὲ τῇ μεσῷ, ὀξυτέρων-
+                              προ ευτρέπισται γὰρ τῷ ἔαρι ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="7" type="scholion">
+                        <div n="lemma">
+                            <p><num value="7">ζ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.360</p>
+                        </div>
+                        <div n="comment">
+                            <p>νῦν μὲν κυσὶν αὐτοὺς εἰκάζει διὰ τὸ ἀγρευτικόν- πρότερον δὲ λέουσι. διὰ τὸ εὐπαθές ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="8" type="scholion">
+                        <div n="lemma">
+                            <p></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.360</p>
+                        </div>
+                        <div n="comment">
+                            <p>ἐν τούτωι γάρ ἐστι τῶν κυνῶν τὸ κράτιστον- ταῦτα γὰρ τὰ ζῶα φύσει μέν ἐστι ταχέα.
+                              ὑπεκλυόμενα δὲ διὰ τὴν ἀσθένεαν- οἱ δὲ κύνες τὸ ἐναντίον ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="9" type="scholion">
+                        <div n="lemma">
+                            <p><num value="8">η</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.361</p>
+                        </div>
+                        <div n="comment">
+                            <p>τὸν καταληφθησόμενον δηλοῖ- περικατάληπτοι γὰρ γενόμενοι βοῶσιν οἱ λαγωοί ⁑ </p>
                         </div>
                     </div>
                 </body>
