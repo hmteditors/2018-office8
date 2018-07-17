@@ -1,9 +1,9 @@
 reading#image#scholion#linked_text
-<num>α</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3555,0.3150,0.04065,0.02813#urn:cts:greekLit:tlg5026.e3.hmt:131v_1#urn:cts:greekLit:tlg0012.tlg001.e3:10.339@φράσατο
-<num>β</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.2688,0.3883,0.04703,0.02162#urn:cts:greekLit:tlg5026.e3.hmt:131v_2#urn:cts:greekLit:tlg0012.tlg001.e3:10.343@συλήσων
-<num>γ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3536,0.4417,0.06264,0.02384#urn:cts:greekLit:tlg5026.e3.hmt:131v_3#urn:cts:greekLit:tlg0012.tlg001.e3:10.346@παραφθαίησι
-<num>δ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3489,0.5071,0.05479,0.02564#urn:cts:greekLit:tlg5026.e3.hmt:131v_4#urn:cts:greekLit:tlg0012.tlg001.e3:10.350@παρέδραμεν
-<num>ε</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3683,0.5243,0.02790,0.02370#urn:cts:greekLit:tlg5026.e3.hmt:131v_5#urn:cts:greekLit:tlg0012.tlg001.e3:10.351@οὖρα
-<num>ϛ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.2916,0.5560,0.03003,0.02813#urn:cts:greekLit:tlg5026.e3.hmt:131v_6#urn:cts:greekLit:tlg0012.tlg001.e3:10.353@νειοῖο
-<num>ζ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3404,0.6771,0.02060,0.02162#urn:cts:greekLit:tlg5026.e3.hmt:131v_7#urn:cts:greekLit:tlg0012.tlg001.e3:10.360@δύω
-<num>θ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3720,0.6914,0.04601,0.02605#urn:cts:greekLit:tlg5026.e3.hmt:131v_9#urn:cts:greekLit:tlg0012.tlg001.e3:10.361@ἐμμενὲς
+<num>α</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3555,0.3150,0.04065,0.02813#urn:cts:greekLit:tlg5026.e3.hmt:10.131v_1#urn:cts:greekLit:tlg0012.tlg001.e3:10.339@φράσατο
+<num>β</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.2688,0.3883,0.04703,0.02162#urn:cts:greekLit:tlg5026.e3.hmt:10.131v_2#urn:cts:greekLit:tlg0012.tlg001.e3:10.343@συλήσων
+<num>γ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3536,0.4417,0.06264,0.02384#urn:cts:greekLit:tlg5026.e3.hmt:10.131v_3#urn:cts:greekLit:tlg0012.tlg001.e3:10.346@παραφθαίησι
+<num>δ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3489,0.5071,0.05479,0.02564#urn:cts:greekLit:tlg5026.e3.hmt:10.131v_4#urn:cts:greekLit:tlg0012.tlg001.e3:10.350@παρέδραμεν
+<num>ε</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3683,0.5243,0.02790,0.02370#urn:cts:greekLit:tlg5026.e3.hmt:10.131v_5#urn:cts:greekLit:tlg0012.tlg001.e3:10.351@οὖρα
+<num>ϛ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.2916,0.5560,0.03003,0.02813#urn:cts:greekLit:tlg5026.e3.hmt:10.131v_6#urn:cts:greekLit:tlg0012.tlg001.e3:10.353@νειοῖο
+<num>ζ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3404,0.6771,0.02060,0.02162#urn:cts:greekLit:tlg5026.e3.hmt:10.131v_7#urn:cts:greekLit:tlg0012.tlg001.e3:10.360@δύω
+<num>θ</num>#urn:cite2:hmt:e3bifolio.v1:E3_131v_132r@0.3720,0.6914,0.04601,0.02605#urn:cts:greekLit:tlg5026.e3.hmt:10.131v_9#urn:cts:greekLit:tlg0012.tlg001.e3:10.361@ἐμμενὲς
