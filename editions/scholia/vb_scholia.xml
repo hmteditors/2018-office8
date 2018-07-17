@@ -95,10 +95,10 @@
                             <p><num value="7">ζ</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.LINE_REFERENCE</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.360</p>
                         </div>
                         <div n="comment">
-                            <p></p>
+                            <p>νῦν μὲν κυσὶν αὐτοὺς εἰκάζει. διὰ τὸ ἀγρευτικόν- πρότερον δὲ λέουσι. διὰ τὸ εὐπαθές ⁑</p>
                         </div>
                     </div>
                     <div n="136v_8" type="scholion">
@@ -106,10 +106,12 @@
                             <p><num value="8">η</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.LINE_REFERENCE</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.360</p>
                         </div>
                         <div n="comment">
-                            <p></p>
+                            <p>ἐν τούτῳ γάρ ἐστι τῶν κυνῶν τὸ κράτιστον- ταῦτα γὰρ τὰ ζῶα φύσει μέν ἐστι ταχέα.
+                              ὑπεκλυόμενα δὲ διὰ τὴν ἀσθένειαν- οἱ δὲ κύνες τὸ ἐναντίον ⁑
+                            </p>
                         </div>
                     </div>
                     <div n="136v_9" type="scholion">
@@ -117,10 +119,10 @@
                             <p><choice><sic><num value="8">η</num></sic><corr><num value="9">θ</num></corr></choice></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.LINE_REFERENCE</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.361</p>
                         </div>
                         <div n="comment">
-                            <p></p>
+                            <p>τὸν καταληφθησόμενον δηλοῖ- περικατάληπτοι γὰρ γινόμενοι βοῶσιν οἱ λαγωοί ⁑ </p>
                         </div>
                     </div>
                 </body>
