@@ -18,9 +18,9 @@
     </teiHeader>
     <text>
         <group n="10">
-            <text n="msA">
+            <text n="e3">
                 <body>
-                    <div n="1" type="scholion">
+                    <div n="131v_1" type="scholion">
                         <div n="lemma">
                             <p><num value="1">α</num></p>
                         </div>
@@ -32,7 +32,7 @@
                             οὐ προνοεῖ- πῶς δὲ τὸν ἐρωδίον μὴ ὁρῶντες αὐτὸν ὁρῶσιν- ἴσως ὅτι πρὸς ὄρθρον ἡ σελήνη ἀνέσχεν ⁑ </p>
                         </div>
                     </div>
-                    <div n="2" type="scholion">
+                    <div n="131v_2" type="scholion">
                         <div n="lemma">
                             <p><num value="2">β</num></p>
                         </div>
@@ -44,7 +44,7 @@
                             τὴν ὠκύτητα αὐτοῦ ⁑</p>
                         </div>
                     </div>
-                    <div n="3" type="scholion">
+                    <div n="131v_3" type="scholion">
                         <div n="lemma">
                             <p><num value="3">γ</num></p>
                         </div>
@@ -55,7 +55,7 @@
                             <p>εἰδὲ πλαγίαν ὡς ἐπὶ τὴν πόλιν ποιεῖται τὴν ὁδὸν, ἀπόστρεφε πάλιν αὐτον, ἐπὶ τᾶς ναῦς ⁑</p>
                         </div>
                     </div>
-                    <div n="4" type="scholion">
+                    <div n="131v_4" type="scholion">
                         <div n="lemma">
                             <p><num value="4">δ</num></p>
                         </div>
@@ -63,12 +63,12 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.350</p>
                         </div>
                         <div n="comment">
-                            <p>παρέδραμε <choice><abbr>φη</abbr><expan>φησιν</expan></choice> ἀσύνετως.
+                            <p> <quote>παρέδραμε </quote> <choice><abbr>φη</abbr><expan>φησιν</expan></choice> ἀσύνετως.
                             οὐ θεασάμενος αὐτούς- δεῖ δὲ τοὺς κατασκόπους τὴν ὄψιν περιάγειν.
                             πρὸς ἐπίγνωσιν ἀκριβῆ ⁑ </p>
                         </div>
                     </div>
-                    <div n="5" type="scholion">
+                    <div n="131v_5" type="scholion">
                         <div n="lemma">
                             <p><num value="5">ε</num></p>
                         </div>
@@ -79,7 +79,7 @@
                             <p>ὅσον ἀροτριῶσα ἡ ἡμίονος ὑπογράφειν δύναται ὅ ἔστι πλέθρον ⁑ </p>
                         </div>
                     </div>
-                    <div n="6" type="scholion">
+                    <div n="131v_6" type="scholion">
                         <div n="lemma">
                             <p><num value="6">ϛ</num></p>
                         </div>
@@ -91,7 +91,7 @@
                               προ ευτρέπισται γὰρ τῷ ἔαρι ⁑ </p>
                         </div>
                     </div>
-                    <div n="7" type="scholion">
+                    <div n="131v_7" type="scholion">
                         <div n="lemma">
                             <p><num value="7">ζ</num></p>
                         </div>
@@ -102,7 +102,7 @@
                             <p>νῦν μὲν κυσὶν αὐτοὺς εἰκάζει διὰ τὸ ἀγρευτικόν- πρότερον δὲ λέουσι. διὰ τὸ εὐπαθές ⁑ </p>
                         </div>
                     </div>
-                    <div n="8" type="scholion">
+                    <div n="131v_8" type="scholion">
                         <div n="lemma">
                             <p></p>
                         </div>
@@ -114,7 +114,7 @@
                               ὑπεκλυόμενα δὲ διὰ τὴν ἀσθένεαν- οἱ δὲ κύνες τὸ ἐναντίον ⁑ </p>
                         </div>
                     </div>
-                    <div n="9" type="scholion">
+                    <div n="131v_9" type="scholion">
                         <div n="lemma">
                             <p><num value="8">η</num></p>
                         </div>
